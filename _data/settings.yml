@@ -1,0 +1,8 @@
+google-ID: ''
+
+menu:
+- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+
+social:
+- {icon: 'envelope', link: 'mailto:basetld@gmail.com'}
