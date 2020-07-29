@@ -5,4 +5,4 @@ menu:
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 social:
-- {icon: 'envelope', link: 'mailto:basetld@gmail.com'}
+- {icon: 'envelope', link: 'mailto:basetldomain@gmail.com'}

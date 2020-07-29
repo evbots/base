@@ -3,4 +3,4 @@ layout: misc
 title: Contact
 ---
 
-Email: <a href="mailto:basetld@gmail.com">basetld@gmail.com</a>.
+Email: <a href="mailto:basetldomain@gmail.com">basetldomain@gmail.com</a>.
