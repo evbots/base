@@ -13,11 +13,11 @@ title: .FAQ Brand Guidance
 
 #### Blurb:
 
-The internet is changing. People are starting to realize how fragile the existing internet ecosystem is. Censorship is becoming more prevalent as corporations crack down on free speech in order to protect their own financial interests. The .FAQ TLD is rooted in the Handshake blockchain: a truly permissionless solution that is completely independent of corporations and governments. Use .FAQ to share your content with the world and stake your claim on the new internet.
+.FAQ is an ideal place to host your informational content, blog, news, or frequently asked question pages on the decentralized web. Handshake makes it possible to create censorship-resistant websites, and .FAQ is an anchor that your and your website users will understand as a trusted resource. This top-level namespace will boost your brand recognition as a place where customers and users can find the information they want.
 
 #### Example Tweet:
 
-"Register a .FAQ TLD to stake your claim on the new internet powered by blockchain! #NewInternet"
+"Register your censorship-resistant .FAQ subdomain and share information without bounds #NewInternet"
 <br />
 <br />
 
