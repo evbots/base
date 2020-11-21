@@ -2,6 +2,7 @@
 layout: misc
 title: .BASE Brand Guidance
 ---
+<br />
 
 ## Marketing Copy
 
@@ -17,29 +18,56 @@ The internet is changing. People are starting to realize how fragile the existin
 #### Example Tweet:
 
 "Register a .base TLD to stake your claim on the new internet powered by blockchain! #NewInternet"
+<br />
+<br />
 
 ## Image Assets
 
 #### Logomark
 <div class="brand-section">
   <img src="/assets/img/base/BASE-dk-bkgrd.jpg" />
+  <ul class="dashed">
+    <li>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/JPEGs/BASE-dk-bkgrd.jpg">[JPEG] Logo on dark (1024 x 445)</a>
+    </li>
+    <li>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/PNGs/BASE-white-text.png">[PNG] Logo on transparent (1024 x 445)</a>
+    </li>
+    <li>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/SVGs/BASE-dk-bkgrd-02.svg">[SVG] Logo light text</a>
+    </li>
+  </ul>
   <img src="/assets/img/base/BASE-white-bkgrd.jpg" />
 </div>
 
 #### Icon
 <div class="brand-section">
   <img src="/assets/img/base/base-icon.png" width="100px" />
+  <ul class="dashed">
+    <li>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/base/icon/base-icon.png">[PNG] Icon (642 × 552)</a>
+    </li>
+    <li>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/base/icon/base-icon.svg">[SVG] Icon</a>
+    </li>
+  </ul>
 </div>
 
 #### Banner Images
 
 <div class="brand-section">
   <img src="/assets/img/base/banner_base_1280.jpeg" />
-  <ul>
-    <li><a href="https://github.com/evbots/base/blob/master/raw_images/base/base_banner_6700.jpeg">Full Resolution .BASE Banner</a></li>
+  <ul class="dashed">
+    <li>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/base/banner/base_banner_6700.jpeg">[JPEG] Full Resolution (6700 x 4472)</a>
+    </li>
   </ul>
-  <br />
   <img src="/assets/img/base/header_base_1080.jpg" />
+  <ul class="dashed">
+    <li>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/base/header/BASE-header-1080x500.jpg">[JPEG] Header (1080 x 500)</a>
+    </li>
+  </ul>
 </div>
 
 ## Font
