@@ -26,7 +26,7 @@ The internet is changing. People are starting to realize how fragile the existin
 
 ![.BASE Banner](/assets/img/base/banner_base_1280.jpeg)
 <ul>
-  <li><a>Full Resolution .BASE Banner</a></li>
+  <li><a href="https://github.com/evbots/base/blob/master/raw_images/base_banner_6700.jpeg">Full Resolution .BASE Banner</a></li>
 </ul>
 <br />
 ![.Base Header](/assets/img/base/header_base_1080.jpg)
