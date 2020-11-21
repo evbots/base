@@ -13,7 +13,7 @@ title: .BASE Brand Guidance
 
 #### Blurb:
 
-The internet is changing. People are starting to realize how fragile the existing internet ecosystem is. Censorship is becoming more prevalent as corporations crack down on free speech in order to protect their own financial interests. The .BASE TLD is rooted in the Handshake blockchain: a truly permissionless solution that is completely independent of corporations and governments. Use .BASE to share your content with the world and stake your claim on the new internet.
+The .BASE TLD is rooted in the Handshake blockchain: a truly permissionless solution that is completely independent of corporations and governments. The internet is changing and people are starting to realize how fragile the existing internet ecosystem is. Censorship is becoming more prevalent as corporations and governments crack down on free speech in order to protect their own financial interests. Use .BASE to share your content with the world and stake your claim on the new internet.
 
 #### Example Tweet:
 
