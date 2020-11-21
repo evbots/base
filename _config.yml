@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Base TLD"
+title:		           "BaseTLD"
 description:	       "Handshake TLDs for the new internet"
 author:              ""
 
