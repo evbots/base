@@ -1,8 +1,9 @@
 google-ID: ''
 
 menu:
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: '.BASE', folder: 'pages', file: 'base.html'}
+- {name: '.FAQ', folder: 'pages', file: 'faq.html'}
+- {name: 'About Us', folder: 'pages', file: 'about.html'}
 
 social:
 - {icon: 'envelope', link: 'mailto:basetldomain@gmail.com'}
