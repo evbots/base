@@ -28,7 +28,7 @@ The internet is changing. People are starting to realize how fragile the existin
   <img src="/assets/img/base/BASE-dk-bkgrd.jpg" />
   <ul class="dashed">
     <li>
-      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/JPEGs/BASE-dk-bkgrd.jpg">[JPEG] Logo on dark (1024 x 445)</a>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/JPEGs/BASE-dk-bkgrd.jpg">[JPEG] Logo light text on dark (1024 x 445)</a>
     </li>
     <li>
       <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/PNGs/BASE-white-text.png">[PNG] Logo light text on transparent (1024 x 445)</a>
@@ -40,7 +40,7 @@ The internet is changing. People are starting to realize how fragile the existin
   <img src="/assets/img/base/BASE-white-bkgrd.jpg" />
   <ul class="dashed">
     <li>
-      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/JPEGs/BASE-white-bkgrd.jpg">[JPEG] Logo on white (1024 x 445)</a>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/JPEGs/BASE-white-bkgrd.jpg">[JPEG] Logo dark text on white (1024 x 445)</a>
     </li>
     <li>
       <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/PNGs/BASE-dk-text.png">[PNG] Logo dark text on transparent (1024 x 445)</a>

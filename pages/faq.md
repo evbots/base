@@ -28,25 +28,25 @@ The internet is changing. People are starting to realize how fragile the existin
   <img src="/assets/img/faq/FAQ-dk-bkgrd.jpg" />
   <ul class="dashed">
     <li>
-      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/JPEGs/BASE-dk-bkgrd.jpg">[JPEG] Logo on dark (1024 x 445)</a>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/faq/logo/JPEGs/FAQ-dk-bkgrd.jpg">[JPEG] Logo light text on dark (1024 x 445)</a>
     </li>
     <li>
-      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/PNGs/BASE-white-text.png">[PNG] Logo light text on transparent (1024 x 445)</a>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/faq/logo/PNGs/FAQ-white-text.png">[PNG] Logo light text on transparent (1024 x 445)</a>
     </li>
     <li>
-      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/SVGs/BASE-dk-bkgrd-02.svg">[SVG] Logo light text</a>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/faq/logo/SVGs/FAQ-dk-bkgrd-04.svg">[SVG] Logo light text</a>
     </li>
   </ul>
   <img src="/assets/img/faq/FAQ-white-bkgrd.jpg" />
   <ul class="dashed">
     <li>
-      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/JPEGs/BASE-white-bkgrd.jpg">[JPEG] Logo on white (1024 x 445)</a>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/faq/logo/JPEGs/FAQ-white-bkgrd.jpg">[JPEG] Logo dark text on white (1024 x 445)</a>
     </li>
     <li>
-      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/PNGs/BASE-dk-text.png">[PNG] Logo dark text on transparent (1024 x 445)</a>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/faq/logo/PNGs/FAQ-dk-text.png">[PNG] Logo dark text on transparent (1024 x 445)</a>
     </li>
     <li>
-      <a href="https://github.com/evbots/base/blob/master/raw_images/base/logo/SVGs/BASE-white-bkgrd-01.svg">[SVG] Logo dark text</a>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/faq/logo/SVGs/FAQ-white-bkgrd-03.svg">[SVG] Logo dark text</a>
     </li>
   </ul>
 </div>
@@ -56,10 +56,10 @@ The internet is changing. People are starting to realize how fragile the existin
   <img src="/assets/img/faq/faq-icon.png" width="100px" />
   <ul class="dashed">
     <li>
-      <a href="https://github.com/evbots/base/blob/master/raw_images/base/icon/base-icon.png">[PNG] Icon (642 × 552)</a>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/faq/icon/faq-icon.png">[PNG] Icon (621 x 620)</a>
     </li>
     <li>
-      <a href="https://github.com/evbots/base/blob/master/raw_images/base/icon/base-icon.svg">[SVG] Icon</a>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/faq/icon/faq-icon.svg">[SVG] Icon</a>
     </li>
   </ul>
 </div>
@@ -70,13 +70,13 @@ The internet is changing. People are starting to realize how fragile the existin
   <img src="/assets/img/faq/banner_faq_1280.jpeg" />
   <ul class="dashed">
     <li>
-      <a href="https://github.com/evbots/base/blob/master/raw_images/base/banner/base_banner_6700.jpeg">[JPEG] Full Resolution (6700 x 4472)</a>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/faq/banner/faq_banner_6000.jpeg">[JPEG] Full Resolution (6000 x 4000)</a>
     </li>
   </ul>
   <img src="/assets/img/faq/header_faq_1080.jpg" />
   <ul class="dashed">
     <li>
-      <a href="https://github.com/evbots/base/blob/master/raw_images/base/header/BASE-header-1080x500.jpg">[JPEG] Header (1080 x 500)</a>
+      <a href="https://github.com/evbots/base/blob/master/raw_images/faq/header/FAQ-header-1080x500.jpg">[JPEG] Header (1080 x 500)</a>
     </li>
   </ul>
 </div>
