@@ -21,6 +21,8 @@ The internet is changing. People are starting to realize how fragile the existin
 
 #### Logomark
 
+![.BASE logo on white](/assets/img/base/BASE-white-bkgrd.jpg)
+![.BASE logo on dark](/assets/img/base/BASE-dk-bkgrd.jpg)
 
 #### Banner Images
 
