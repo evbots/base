@@ -14,8 +14,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           ".base TLD"
-description:	       "A Handshake TLD for the new internet"
+title:		           "Base TLD"
+description:	       "Handshake TLDs for the new internet"
 author:              ""
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
