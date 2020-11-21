@@ -24,6 +24,9 @@ The internet is changing. People are starting to realize how fragile the existin
 
 #### Banner Images
 
-![Drag Racing](/assets/img/base/banner_base_1280.jpeg)
-
-![Drag Racing](/assets/img/base/header_base_1080.jpg)
+![.BASE Banner](/assets/img/base/banner_base_1280.jpeg)
+<ul>
+  <li><a>Full Resolution .BASE Banner</a></li>
+</ul>
+<br />
+![.Base Header](/assets/img/base/header_base_1080.jpg)
